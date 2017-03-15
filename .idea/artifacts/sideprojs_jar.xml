@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sideprojs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sideprojs_jar</output-path>
+    <root id="archive" name="sideprojs.jar">
+      <element id="module-output" name="sideprojs" />
+    </root>
+  </artifact>
+</component>
